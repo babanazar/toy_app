@@ -23,3 +23,13 @@ Yes: "User was successfully destroyed."
     @user = User.find(params[:id])
 ### 3.
     edit.html.erb
+
+## 2.2.3
+### 1.
+id stays there but the message disappears.
+### 2.
+I was able to successfully create a micropost with no content and no user.
+### 3.
+I successfully created an article with more than 140 characters.
+### 4.
+Successfully destroyed.
