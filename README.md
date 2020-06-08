@@ -33,3 +33,14 @@ I was able to successfully create a micropost with no content and no user.
 I successfully created an article with more than 140 characters.
 ### 4.
 Successfully destroyed.
+
+## 2.2.4
+### 1.
+It says:
+ 
+1 error prohibited this micropost from being saved:
+
+- Content is too long (maximum is 140 characters)
+
+### 2.
+id of error message is `error_explanation`.
